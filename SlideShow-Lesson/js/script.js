@@ -2,7 +2,7 @@ $('document').ready(function(){
     $(".theTarget").skippr();
 });
 
-// skipprの初期化
+// skipprの初期化を上のように記述して、下にオプションとして設定を記述する
 
 $(".theTarget").skipper({
     transition : 'fade',
