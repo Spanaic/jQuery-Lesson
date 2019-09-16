@@ -1,0 +1,25 @@
+.cleafix::after {
+    display: block;
+    content: "";
+    clear: both;
+}
+
+.box1 {
+    background-color: #fffff;
+    height: 200px;
+    width: 100%;
+    float: left;
+}
+.bg1 {
+    background-color: #ffaaaa;
+}
+.bg2 {
+    background-color: #ffbbbb;
+}
+.bg3 {
+    background-color:   #ffcccc;
+}
+.bg4 {
+    background-color: #ffdddd;
+}
+
